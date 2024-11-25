@@ -18,3 +18,5 @@ This project leverages **Machine Learning (ML)** and **Artificial Intelligence (
 - **AI/ML Frameworks**: TensorFlow, PyTorch  
 - **Data Analysis & Visualization**: NumPy, Matplotlib, Pandas
 
+
+<img width="931" alt="Screenshot 2024-11-25 at 15 53 37" src="https://github.com/user-attachments/assets/a87776c2-2fbe-4662-886a-3e701cd94768">
